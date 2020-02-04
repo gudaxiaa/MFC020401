@@ -151,5 +151,6 @@ void CMFC020401Dlg::OnPaint()
 HCURSOR CMFC020401Dlg::OnQueryDragIcon()
 {
 	return static_cast<HCURSOR>(m_hIcon);
+	1
 }
 
